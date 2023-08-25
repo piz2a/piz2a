@@ -1,7 +1,7 @@
 # About me
 
 * School: Gyeonggibuk Science High School (19th)
-* Email: z@piz2a.me
+* Email: i@piz2a.me
 
 ![TopLanguage](https://github-readme-stats.vercel.app/api/top-langs/?username=piz2a&layout=compact&theme=github_dark)
 [![solved.ac](http://mazassumnida.wtf/api/v2/generate_badge?boj=jihoahn)](https://solved.ac/profile/jihoahn)
